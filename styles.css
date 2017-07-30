@@ -1,0 +1,55 @@
+.image
+{
+	height: 0px;
+	width: 0px;
+	display: block;
+}
+
+#current
+{
+	height: 300px;
+	width: 300px;
+}
+
+#display
+{
+	display: inline-block;
+	height: 300px;
+	width: 300px;
+}
+
+#nextButton
+{
+	display: inline-block;
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	margin-left: -50px;
+	margin-top: 150px;
+	margin-bottom: 150px;
+}
+
+#previousButton
+{
+	display: inline-block;
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	margin-top: 150px;
+	margin-bottom: 150px;
+}
+
+#carousel
+{
+	display: block;
+	height: 500px;
+	width: 500px;
+}
+
+#dots
+{
+	display: block;
+	margin-top: -50px;
+	margin-right: 75px;
+	margin-left: 75px;
+}
